@@ -1,0 +1,9 @@
+.squaret{
+    width: 20px;
+    height: 20px;
+    background-color: darkmagenta;
+    border: 2px solid black;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+}
