@@ -1,4 +1,4 @@
-.square{
+.squarez{
     width: 20px;
     height: 20px;
     background-color: rgba(20, 184, 248, 0.911);
@@ -6,4 +6,7 @@
     box-sizing: border-box;
     display: inline-block;
     position: relative;
+}
+.z{
+    display: inline-block;
 }

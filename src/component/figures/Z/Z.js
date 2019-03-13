@@ -4,10 +4,10 @@ import './Z.css';
 var z=(props)=>{
     return(
         <div className="z">
-            <div className="square" style={{borderRight:"None",width:"18px"}}></div>
-            <div className="square" ></div>
-            <div className="square" style={{top: "-20px",left: "-20px",borderBottom:"None"}}></div>
-            <div className="square" style={{top:"20px",left:"-58px",borderTop:"None"}}></div>
+            <div className="squarez" style={{top: "20px"}}></div>
+            <div className="squarez" style={{top: "20px"}}></div>
+            <div className="squarez" style={{left: "-20px",}}></div>
+            <div className="squarez" style={{top:"40px",left: "-60px"}}></div>
         </div>
     );
 }
