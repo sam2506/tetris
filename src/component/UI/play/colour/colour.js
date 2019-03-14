@@ -10,6 +10,7 @@ var colour=(props)=>{
             shape={igkeyc} 
             topp={index1} 
             leftt={index2}
+            key={index1*10000+index2}
             />
         });
     });
