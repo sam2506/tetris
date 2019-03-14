@@ -3,6 +3,9 @@
     padding: 0;
     width: 460px;
     height: 520px;
-    padding-top: 20px;
     background-color: lightgray;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    z-index: 1;
 }

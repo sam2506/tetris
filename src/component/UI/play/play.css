@@ -1,7 +1,7 @@
 .play{
     margin: 0;
     padding: 0;
-    width: 460px;
+    width: 660px;
     height: 620px;
     position: relative;
     left: 260px;
@@ -11,4 +11,5 @@
     display: inline-block;
     width: 80px;
     height: 80px;
+    z-index: 2;
 }
